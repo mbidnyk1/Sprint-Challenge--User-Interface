@@ -189,6 +189,7 @@ footer nav a {
 
 .together {
     padding: 3%;
+    
 }
 
 hr {
@@ -199,4 +200,48 @@ button {
     border: 3px solid black;
     border-radius: 5px;
     padding: 2% 8%;
+    font-size: 14px;
 }
+
+.strategy {
+    
+}
+
+.how {
+    
+}
+
+.places {
+    
+}
+.strategy p {
+    padding: 4% 0%;
+}
+.strategy img {
+    padding: 5% 0%;    
+}
+
+.how p{
+    padding: 4% 0%;
+}
+.how img {
+    padding: 5% 0%;    
+}
+
+.places p {
+    padding: 4% 0%;
+}
+.places img {
+    padding: 5% 0%;    
+}
+
+.collaboration p {
+    padding: 4% 0%;
+}
+
+.collaboration img {
+    padding: 5% 0%;
+    
+}
+
+
