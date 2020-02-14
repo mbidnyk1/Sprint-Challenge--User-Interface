@@ -188,7 +188,7 @@ footer nav a {
 }
 
 .together {
-    padding: 2%;
+    padding: 3%;
 }
 
 hr {
@@ -196,7 +196,7 @@ hr {
 }
 
 button {
-    border-color: black;
+    border: 3px solid black;
     border-radius: 5px;
     padding: 2% 8%;
 }
